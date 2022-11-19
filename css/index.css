@@ -1,0 +1,320 @@
+    .index-container{
+        position: absolute;
+        right: 0;
+        left: 0;
+    }
+    .banner-container{
+        position: relative;
+        height:500px;
+        margin-top:0px;
+        font-size: 12px;
+        font-weight: 400;
+        border-radius: 20px;
+    }
+    .banner-container  img {
+        width:900px;
+        margin-top:50px;
+        margin-left:14%;
+        position: relative;
+    }
+    .banner-container:hover {
+                color: #fbc700;
+            }
+    .fullpage-main{
+        margin-top:200px;
+        height:620px;
+        position: relative;
+        right: 0;
+        left: 0;
+    }
+    .ibrand-wrap{
+        position:relative;
+        font-size:0;
+        right: 0;
+        left: 0;
+    }
+    .wrap:{
+        margin-right:7.5%;
+        margin-left: 7.5%
+    }
+    .ibrand-item.left{
+        padding-left: 0px;
+        padding-right:0px;
+        text-align:left;
+        padding-top:11.97917vx;
+        position: relative;
+        display:inline-block;
+        vertical-align: top;
+        padding-top:230px;
+        left:50px;
+        width:50%;
+    }
+    .ibrand-item.left .ibrand-img{
+        margin-left:auto;
+        margin-right:0;
+    }
+    .ibrand-img{
+        max-width:440px;
+        overflow:hidden;
+    }
+    .img-box{
+        position:relative;
+    }
+
+    .ibrand-red{
+        position: absolute;
+        bottom:0;
+        display:block;
+        padding:0 20px;
+        width:230px;
+        height:296px;
+        background-color:#002147;
+    }
+    .ibrand-red_txt{
+        position:absolute;
+        top:25%;
+        left:20px;
+        right:20px;
+        font-size:14px;
+        line-height: 2;
+        color:#fff;
+        font-weight: 300;
+    }
+    .ibrand-red_line{
+        display:inline-block;
+        vertical-align: middle;
+        width:18px;
+        height:2px;
+        background-color: #fff;
+    }
+
+    .ibrand-item.left .ibrand-slogan {
+        left: 0px;
+
+        margin-left: -.1em;
+    }
+    .ibrand-slogan {
+        font-size: 60px;
+        line-height: 1.25;
+    }
+    .ibrand-slogan {
+        font-size: 5.20833vw;
+    }
+    .ibrand-slogan {
+        filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=20);
+        opacity: .2;
+        position: absolute;
+        top: 0;
+        font: 700 100px/1 "Lato";
+        font-size: 100px;
+        line-height: 1;
+        color: #42433e;
+    }
+    .ibrand-top {
+        position: absolute;
+        top: 0;
+        color: #FFB317;
+        line-height: 2;
+        font-weight: 400;
+    }
+    .ibrand-top p {
+        font-size: 18px;
+    }
+    .ibrand-top h2 {
+        font-size: 24px;
+        margin-top: 1.66667em;
+        margin-bottom: .66667em;
+    }
+    .ibrand-item.left .ibrand-link {
+        left: 50px;
+    }
+    .ibrand-link {
+        position: absolute;
+        bottom: 10px;
+        font: 300 12px/2 "Lato";
+        color: #fff;
+    }
+    .ibrand-link a {
+    outline: 0;
+    text-decoration: none;
+    }
+    .right{
+        text-align:left;
+        padding-top:11.97917vx;
+        position: relative;
+        display:inline-block;
+        vertical-align: top;
+        width:50%;
+        height:616px;
+        right:50px;
+
+    }
+    .right-pic {
+        padding-top:230px;
+        padding-left:190px;
+        display:block;
+        overflow:hidden;
+    }
+
+    .ibrand-slogan-right{
+        line-height: 1.25;
+        filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=20);
+        opacity: .2;
+        position: absolute;
+        top: 0;
+        font: 700 100px/1 "Lato";
+        font-size: 100px;
+        line-height: 1;
+        color: #42433e;
+        right: 0;
+
+    }
+    .recommend-container {
+        width: 960px;
+        margin-top: 100px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .recommend-index{
+        width: 100%;
+        height: 44px;
+        line-height: 44px;
+        box-sizing: border-box;
+        font-size: 14px;
+        color: #fff;
+        border-top-right-radius: 5px;
+        border-top-left-radius: 5px;
+    }
+    .recommend-index .title {
+        font-size: 18px;
+        margin-left: 13px;
+        margin-right: 10px;
+    }
+    .recommend-index  .nav-item {
+        float: left;
+        padding: 0 5px;
+        position: relative;
+        cursor: pointer;
+        text-transform: uppercase;
+    }
+    .mf-shang-hei-regular {
+        font-family: "MFShangHei-Regular" !important;
+    }
+    .recommend-index .nav-item {
+        float: left;
+        padding: 0 5px;
+        position: relative;
+        cursor: pointer;
+        text-transform: uppercase;
+    }
+    .recommend-container .recommend-list {
+        max-height: 753px;
+    }
+    .recommend-container .recommend-list {
+        background-color: #fff;
+        border: 1px solid #E5E5E5;
+            border-top-color: rgb(229, 229, 229);
+            border-top-style: solid;
+            border-top-width: 1px;
+        border-top: 0;
+        border-bottom-left-radius: 4px;
+        border-bottom-right-radius: 4px;
+        max-height: 758px;
+        padding: 10px 10px 20px;
+        width: 100%;
+        box-sizing: border-box;
+        overflow-y: hidden;
+        text-align: left;
+    }
+    .recommend-container .recommend-list .recommend-item {
+        width: 24.5%;
+    }
+    .recommend-container .recommend-list .recommend-item {
+        display: inline-block;
+        box-sizing: border-box;
+        vertical-align: middle;
+    }
+    .recommend-container .recommend-list .recommend-item .card-container {
+        padding: 10px;
+    }
+    .recommend-card-wrapper {
+        width: 100%;
+        box-sizing: border-box;
+    }
+    .recommend-card-wrapper .img-box1 {
+        height: 0;
+        width: 100%;
+        padding-bottom: 56.25%;
+        background-color: #f4f4f4;
+        background-size: cover;
+        background-position: 50% 50%;
+        border-radius: 4px;
+        overflow: hidden;
+    }
+    .recommend-card-wrapper .info-box {
+        position: relative;
+        margin-top: 10px;
+    }
+    .recommend-card-wrapper .info-box .title.aligned {
+        font-size: 16px;
+        line-height: 22px;
+        width: 100%;
+        height: 22px;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        white-space: nowrap;
+    }
+    .recommend-card-wrapper .info-box .title {
+        font-size: 14px;
+        color: #222222;
+        line-height: 20px;
+        width: 100%;
+        margin: 0;
+        font-weight: 500;
+    }
+    .clearfix::before, .clearfix::after {
+        content: " ";
+        visibility: hidden;
+        display: block;
+        height: 0;
+        clear: both;
+    }
+    .join{
+        margin-top:100px;
+        margin-left: 180px;
+        margin-right: auto;
+        width:800px;
+        height:500px;
+        position: relative;
+        display:inline-block;
+        background-image:url(./firstpage/j2.jpg);
+
+    }
+    .join-pic {
+        margin-left:100px;
+        display:block;
+        overflow:hidden;
+    }
+    .join-slogan{
+        float:left;
+        margin-top:65px; 
+        margin-left:55px; 
+        width:460px;
+        display:block;
+       position: absolute;
+
+    }
+
+    .ls-container{
+        margin-top: 100px;
+        margin-left: auto;
+        margin-right: auto;
+
+    }
+    .bottom{
+        margin-top: 100px;
+        margin-left: auto;
+        margin-right: auto;
+        background-color:#002147;
+        height:355px;
+    }
