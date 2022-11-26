@@ -1,0 +1,5 @@
+  As a leader of three, I estabalished a course system with an aim to benefit students and teacher to manage issues related to courses. 
+  This system is not only a course selection system, but also a teaching affairs management system with other teaching affairs management and information query and maintenance, and the course selection system is only a subsystem of this academic affairs management system.
+  There are three kinds of users who use the academic affairs management system: students, classroom teachers, teachers in the academic affairs office, which can be considered administrators. Users can also be divided into these three parts and different users logging in to this system have different interfaces to satisfy different functions.
+  We used MySQL to establish the database on Navicat after designing Entity Relationship Diagram. Afterwards, we designed the web page and used HTML, CSS, Javascript to complete an aesthetic and formal website with clear and comprehensive functional interfaces.
+  
