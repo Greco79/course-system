@@ -11,18 +11,26 @@ This system is not only a course selection system, but also a teaching affairs m
 - - -
 ### Landing Page
 
-It is for user to log in. Users will reach different pages depending on their identities.
+It is for user to log in. Otherwise they need to register with their studentID or teacherID. Users will reach different pages depending on their identities. 
+
 ![avatar](https://github.com/Greco79/course-system/blob/0dab9fa147f8c10dddaa54ffad29ce541cece877/2.jpg)
 
 ### User Page
 
-For example, if you are a manager, then you can deal with problems related to courses like adding or deleting a course.
+For example, if you are the administrator, then you can deal with problems related to courses like adding a course, planning courses for lecturers or editing students' grades.
+
+This page is about course-oriented problems.
+
 ![avatar](https://github.com/Greco79/course-system/blob/0dab9fa147f8c10dddaa54ffad29ce541cece877/3.jpg)
 
 Or to deal with infomation of students and teachers.
+
 ![avatar](https://github.com/Greco79/course-system/blob/0dab9fa147f8c10dddaa54ffad29ce541cece877/4.jpg)
 
-All information will also change in database.
+All information will also change in database and inform students or teachers via email.
+
+### Information Page
+You could modify your information such as name, password or email here except from your user_id, which is settled and could only be changed by backstage administrator.
 
 ## Usage
 - - -
