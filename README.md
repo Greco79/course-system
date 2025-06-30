@@ -67,6 +67,8 @@ Want to request a new feature? Feel free to open a request with sample use cases
 
 ### Built with
 - - -
-- [Navicat for MySQL][2] - Navicat for MySQL is the ideal solution for managing and developing MySQL or MariaDB.
-- [Tomcat][3]-Powers numerous large-scale, mission-critical web applications.
-- [Sublime text3][4]- Program in HTML, CSS and JavaScript with syntax higlghting engine.
+- Navicat for MySQL – Visual database design and development tool
+
+- Apache Tomcat – A popular Java application server
+
+- Sublime Text 3 – Lightweight code editor with syntax highlighting.
